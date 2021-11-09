@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="C:\scripts\practicas web\Practica5_A170118/Ejemplo1.xsl"?>
+<perros>
+  <perro>
+    <raza>Chihuahua</raza>
+    <edad>5 meses</edad>
+    <color>cafe</color>
+  </perro>
+   <perro>
+    <raza>Labrador</raza>
+    <edad>12 meses</edad>
+    <color>chocolate</color>
+  </perro>
+   <perro>
+    <raza>salchicha</raza>
+    <edad>9 meses</edad>
+    <color>blanco con manchas grises</color>
+  </perro>
+</perros>
